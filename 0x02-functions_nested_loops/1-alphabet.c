@@ -1,4 +1,10 @@
-#include "_putchar.c"
+#include "main.h"
+
+/**
+ * print_alphabet - Entry point
+ *
+ * Return: nothing
+ */
 
 void print_alphabet(void)
 {
