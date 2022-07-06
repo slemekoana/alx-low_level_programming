@@ -19,6 +19,6 @@ int _islower(int c)
 			amount = 1;
 		}
 	}
-
-		return (amount);
+	
+	return (amount);
 }
