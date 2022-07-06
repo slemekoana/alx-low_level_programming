@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _islower(int c) - checks if function is in lowercase
+ * _islower - checks if function is in lowercase
  *
  * Return : 1 if lowercase or 0 if uppercase
  */
@@ -19,6 +19,6 @@ int _islower(int c)
 			amount = 1;
 		}
 	}
-	
+
 	return (amount);
 }
